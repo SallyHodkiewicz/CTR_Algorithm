@@ -1,4 +1,4 @@
-** CTR Algorithm
+ *#CTR Algorithm
 
     根据论文, 博客, 知乎等方式学习一些CTR相关的算法
     理解原理并自己动手来实现一遍
@@ -7,7 +7,7 @@
     
 
 
-!# Schedule
+ # Schedule
 
 |  Model  | pytorch | tensorflow2.0 |  paper  |
 | :-----: | :-----: | :-----------: |:------: |
@@ -27,4 +27,4 @@
 |   DIFM  |  :heavy_check_mark:  | :heavy_check_mark:  | [A Dual Input-aware Factorization Machine for CTR Prediction,2020](https://www.ijcai.org/Proceedings/2020/0434.pdf)  |
 |   AFN  |  :heavy_check_mark:  | :heavy_check_mark: | [Adaptive Factorization Network: Learning Adaptive-Order Feature Interactions,2020](https://arxiv.org/pdf/1909.03276)  |
 |   ONN  |  :heavy_check_mark:  | :heavy_check_mark: | [Operation-aware Neural Networks for User Response Prediction,2019](https://arxiv.org/pdf/1904.12579.pdf) |
- 
+  
